@@ -126,3 +126,7 @@ margin: 0;
     transform: scale(1.1);
     background: none;
 }
+
+.tiktokbutton a{
+    text-decoration: none;
+}
